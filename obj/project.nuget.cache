@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/5E5VlKtgLk2+yy/LbpsZKHUdbaUDYwhReNpVP1/w6cx4ZHCEhCfl0rsgxf7FsTa/Dwuq24b9bRbBq0vATtxQg==",
+  "success": true,
+  "projectFilePath": "/Users/Radagast/VSProjects/bgi_fonts/bgi_fonts.csproj",
+  "expectedPackageFiles": [
+    "/Users/Radagast/.nuget/packages/monogame.content.builder.task/3.8.0.1641/monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "/Users/Radagast/.nuget/packages/monogame.framework.desktopgl/3.8.0.1641/monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
+  ],
+  "logs": []
+}

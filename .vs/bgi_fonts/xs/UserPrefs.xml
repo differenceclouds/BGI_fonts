@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{FEF46D48-0510-4C6B-95A3-48E33E5C824A}|Default">
+  <MonoDevelop.Ide.ItemProperties.bgi__fonts PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Drawing.cs">
+    <Files>
+      <File FileName="Game1.cs" Line="90" Column="45" />
+      <File FileName="DrawingSurface.cs" Line="51" Column="3" />
+      <File FileName="bold.cs" Line="25" Column="18" />
+      <File FileName="Litt.cs" Line="54" Column="5" />
+      <File FileName="Drawing.cs" Line="22" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="bgi_fonts" expanded="True">
+            <Node name="bgi_fonts" expanded="True">
+              <Node name="Fonts" expanded="True" />
+              <Node name="Drawing.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
