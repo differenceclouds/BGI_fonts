@@ -1,7 +1,8 @@
 ﻿namespace bgi_fonts {
 	public readonly struct Bold_Data {
+
 		// bold.cs
-		// translated and slightly modified from bold.h, part of SDL_BGI
+		// translated and modified from bold.h, part of SDL_BGI
 		// Decoded from original BGI font BOLD.CHR
 
 		// Glyph ' '

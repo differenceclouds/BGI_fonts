@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/Radagast/VSProjects/bgi_fonts/bgi_fonts.csproj": {}
+    "/Users/Radagast/VSProjects/BGI_fonts/bgi_fonts.csproj": {}
   },
   "projects": {
-    "/Users/Radagast/VSProjects/bgi_fonts/bgi_fonts.csproj": {
+    "/Users/Radagast/VSProjects/BGI_fonts/bgi_fonts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Radagast/VSProjects/bgi_fonts/bgi_fonts.csproj",
+        "projectUniqueName": "/Users/Radagast/VSProjects/BGI_fonts/bgi_fonts.csproj",
         "projectName": "bgi_fonts",
-        "projectPath": "/Users/Radagast/VSProjects/bgi_fonts/bgi_fonts.csproj",
+        "projectPath": "/Users/Radagast/VSProjects/BGI_fonts/bgi_fonts.csproj",
         "packagesPath": "/Users/Radagast/.nuget/packages/",
-        "outputPath": "/Users/Radagast/VSProjects/bgi_fonts/obj/",
+        "outputPath": "/Users/Radagast/VSProjects/BGI_fonts/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/Radagast/.config/NuGet/NuGet.Config"

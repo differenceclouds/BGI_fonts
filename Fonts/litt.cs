@@ -1,6 +1,7 @@
 ﻿namespace bgi_fonts {
 	public readonly struct Litt_Data {
 
+		// litt.cs
 		// Translated from litt.h,
 		// part of SDL_BGI
 		// Decoded from original BGI font LITT.CHR

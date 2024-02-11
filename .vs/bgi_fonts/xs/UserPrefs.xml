@@ -1,12 +1,18 @@
 ﻿<Properties StartupConfiguration="{FEF46D48-0510-4C6B-95A3-48E33E5C824A}|Default">
   <MonoDevelop.Ide.ItemProperties.bgi__fonts PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Drawing.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="tscr.cs">
     <Files>
-      <File FileName="Game1.cs" Line="90" Column="45" />
-      <File FileName="DrawingSurface.cs" Line="51" Column="3" />
-      <File FileName="bold.cs" Line="25" Column="18" />
-      <File FileName="Litt.cs" Line="54" Column="5" />
-      <File FileName="Drawing.cs" Line="22" Column="35" />
+      <File FileName="Game1.cs" Line="110" Column="34" />
+      <File FileName="Drawing.cs" Line="41" Column="44" />
+      <File FileName="Fonts/litt.cs" />
+      <File FileName="Character.cs" Line="17" Column="1" />
+      <File FileName="goth.cs" Line="7937" Column="1" />
+      <File FileName="lcom.cs" Line="5488" Column="22" />
+      <File FileName="Fonts/sans.cs" Line="4" Column="1" />
+      <File FileName="scri.cs" Line="10" Column="37" />
+      <File FileName="simp.cs" Line="20" Column="18" />
+      <File FileName="trip.cs" Line="4" Column="1" />
+      <File FileName="tscr.cs" Line="16" Column="18" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -14,7 +20,7 @@
           <Node name="bgi_fonts" expanded="True">
             <Node name="bgi_fonts" expanded="True">
               <Node name="Fonts" expanded="True" />
-              <Node name="Drawing.cs" selected="True" />
+              <Node name="tscr.cs" selected="True" />
             </Node>
           </Node>
         </State>

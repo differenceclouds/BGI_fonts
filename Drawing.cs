@@ -32,7 +32,7 @@ namespace bgi_fonts {
             float Y1 = point2.Y;
 
 
-            for (float x = 0; x < X1; x += 1) {
+            for (float x = 0; x < X1; x += 0.0625f) {
                 int y = (int)MathF.Round(((Y1 / X1) * x) + 0.5f);
                 drawPixel(spriteBatch, new Vector2(x, y) + position, stroke, color);
             }
